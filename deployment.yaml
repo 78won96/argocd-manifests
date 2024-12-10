@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: k8s
-        image: 78won96/docker-argocd:51
+        image: 78won96/docker-argocd:54
         ports:
           - containerPort: 8080
